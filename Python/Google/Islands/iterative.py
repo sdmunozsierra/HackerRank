@@ -1,5 +1,3 @@
-#!/bin/python3
-
 # Given a adjacency matrix find the number of islands (Number of 1's)
 # that are neighbors from each other.
 
